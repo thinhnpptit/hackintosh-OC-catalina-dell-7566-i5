@@ -1,6 +1,6 @@
 # Hackintosh Dell Ins 7566:
 ## Result
-![Image of installing's result](https://i.imgur.com/0O9OQYS.png)
+![Image of installing's result](https://imgur.com/gallery/IrAp5TS)
 
 ## System's Configuration:
 * Laptop Dell Ins 7566
@@ -33,6 +33,9 @@ Following steps:
 1. Download [Mos][Mos]
 2. Setup like following picture
 ![setup Mos](https://i.imgur.com/XXWptNw.png)
+
+## Fix headphone (Hackintosh combojack support for alc256/alc255)
+[https://github.com/hackintosh-stuff/ComboJack]
 
 ## Not working
 * Nvidia GTX 960M 
