@@ -1,6 +1,6 @@
 # Hackintosh Dell Ins 7566:
 ## Result
-![Image of installing's result](https://imgur.com/gallery/IrAp5TS)
+![Image of installing's result](https://i.imgur.com/uVUK7Wl.png)
 
 ## System's Configuration:
 * Laptop Dell Ins 7566
