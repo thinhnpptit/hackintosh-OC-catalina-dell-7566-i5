@@ -37,6 +37,9 @@ Following steps:
 ## Fix headphone (Hackintosh combojack support for alc256/alc255)
 [https://github.com/hackintosh-stuff/ComboJack]
 
+## Setting up rEFInd with refind_minimal file in repo (menu boot dual MAC & WIN)
+[https://github.com/dortania/Hackintosh-Mini-Guides/blob/master/refind.md]
+
 ## Not working
 * Nvidia GTX 960M 
 
